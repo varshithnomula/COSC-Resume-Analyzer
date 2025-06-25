@@ -2,8 +2,6 @@
 
 A simple Python command-line tool to analyze your resume (in PDF format), extract text, detect key skill mentions like Python, SQL, and Machine Learning, and suggest improvements based on missing keywords.
 
-![image](https://github.com/user-attachments/assets/22382524-311a-4d98-998f-937f648f539f)
-
 ---
 
 ## ✅ Features
@@ -27,7 +25,8 @@ pip install PyMuPDF rich
 ```bash
 python analyzer.py .\path_to_your_resume
 ```
-
+# Output:
+![image](https://github.com/user-attachments/assets/22382524-311a-4d98-998f-937f648f539f)
 ### Do check out my resume 
 [varshith_nomula_resume](./resume.pdf)
 
